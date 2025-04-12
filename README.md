@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
     <a href="https://leetcode.com/u/Viveksahane2005">
         <b>Find Me On LeetCode</b>
     </a> 
@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="center"></h2>
-
+-->
 <p align="center">
     I am passionate about full-stack web development.  
 </p>
