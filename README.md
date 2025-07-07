@@ -2,7 +2,7 @@
     <a href="https://leetcode.com/u/Viveksahane2005">
         <b>Find Me On LeetCode</b>
     </a> 
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30"/>
+   <!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30"/> -->
 </p>
 
 <p align="center">
